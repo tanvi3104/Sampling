@@ -12,4 +12,3 @@ This notebook, `102213024_Tanvi.ipynb`, provides an in-depth exploration of vari
   - **Systematic Sampling**: Selecting every \(n\)-th element from a list.
   - **Cluster Sampling**: Dividing the dataset into clusters and sampling entire clusters.
 - Discussion of **practical applications** of these techniques in real-world scenarios, such as market research, surveys, and data preprocessing for machine learning.
-- Insights on **common pitfalls in sampling** and strategies to avoid bias.
