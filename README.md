@@ -1,6 +1,6 @@
 ## Description
 
-This notebook, `102213024_Tanvi.ipynb`, provides an in-depth exploration of various **sampling techniques** used in statistical analysis and data science. Sampling is a critical process in working with large datasets, as it allows us to draw meaningful insights while working with a subset of the data. 
+This notebook, `102213024_Tanvi.ipynb`, provides an in-depth exploration of various **sampling techniques** used in statistical analysis and data science.
 
 ### Key Highlights:
 - Detailed **step-by-step implementation** of sampling methods using Python.
